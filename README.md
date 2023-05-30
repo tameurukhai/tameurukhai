@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<a rel="me" href="https://hachyderm.io/@tameurukhai">I'm on hachyderm.io</a>
+
 <!---
 tameurukhai/tameurukhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
